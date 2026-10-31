@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="t d">
+<title id="t">Akash's AI and software command center</title><desc id="d">A futuristic control-room panel with animated signal lines and terminal, highlighting AI, data science and software project interests without fabricated statistics.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050914"/><stop offset=".6" stop-color="#0c1931"/><stop offset="1" stop-color="#151d36"/></linearGradient><linearGradient id="edge"><stop stop-color="#247bff"/><stop offset=".5" stop-color="#46d9ff"/><stop offset="1" stop-color="#ff354f"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,monospace}.scan{animation:scan 5s linear infinite}.signal{stroke-dasharray:8 13;animation:flow 12s linear infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}.delay{animation-delay:1s}.delay2{animation-delay:2s}@keyframes scan{from{transform:translateY(0)}to{transform:translateY(240px)}}@keyframes flow{to{stroke-dashoffset:-420}}@keyframes pulse{50%{opacity:.45;filter:url(#glow)}}@media(prefers-reduced-motion:reduce){.scan,.signal,.pulse{animation:none}}</style></defs>
+<rect width="1200" height="390" rx="25" fill="url(#bg)" stroke="#28436d" stroke-width="2"/>
+<path d="M0 8H1200" stroke="url(#edge)" stroke-width="6"/>
+<text x="36" y="48" fill="#46d9ff" font-size="14" letter-spacing="3">10 / PERSONAL COMMAND CENTER</text>
+<text x="36" y="91" fill="#f4f7ff" font-size="31" font-weight="700">Curiosity is the engine. Building is the output.</text>
+<rect x="35" y="118" width="590" height="230" rx="16" fill="#070e1c" stroke="#29466e"/>
+<path d="M35 156H625" stroke="#29466e"/><circle cx="60" cy="137" r="5" fill="#ff536d"/><circle cx="79" cy="137" r="5" fill="#ffc65c"/><circle cx="98" cy="137" r="5" fill="#4bd69a"/><text x="124" y="142" fill="#8194b2" font-size="12" class="mono">akash@profile:~</text>
+<text x="62" y="193" fill="#46d9ff" font-size="16" class="mono">$ whoami</text><text x="62" y="220" fill="#e5edfb" font-size="17" class="mono">AI &amp; Data Science student</text>
+<text x="62" y="260" fill="#46d9ff" font-size="16" class="mono">$ interests --list</text><text x="62" y="287" fill="#e5edfb" font-size="16" class="mono">data  /  machine learning  /  software</text>
+<text x="62" y="326" fill="#ff7185" font-size="15" class="mono">status: always learning</text><rect x="273" y="312" width="9" height="17" fill="#46d9ff" class="pulse"/>
+<g transform="translate(680 123)">
+<text x="0" y="20" fill="#46d9ff" font-size="13" letter-spacing="2">SIGNAL / FOCUS AREAS</text>
+<g transform="translate(0 40)"><rect width="470" height="49" rx="12" fill="#101f39" stroke="#247bff"/><circle cx="27" cy="24" r="8" fill="#247bff" class="pulse"/><text x="52" y="30" fill="#f4f7ff" font-size="17" font-weight="700">Artificial Intelligence &amp; ML</text><path d="M385 24h54" stroke="#247bff" stroke-width="3" class="signal"/></g>
+<g transform="translate(0 103)"><rect width="470" height="49" rx="12" fill="#101f39" stroke="#46d9ff"/><circle cx="27" cy="24" r="8" fill="#46d9ff" class="pulse delay"/><text x="52" y="30" fill="#f4f7ff" font-size="17" font-weight="700">Data Science &amp; Analytics</text><path d="M385 24h54" stroke="#46d9ff" stroke-width="3" class="signal"/></g>
+<g transform="translate(0 166)"><rect width="470" height="49" rx="12" fill="#101f39" stroke="#ff354f"/><circle cx="27" cy="24" r="8" fill="#ff354f" class="pulse delay2"/><text x="52" y="30" fill="#f4f7ff" font-size="17" font-weight="700">Software &amp; Applied Projects</text><path d="M385 24h54" stroke="#ff354f" stroke-width="3" class="signal"/></g>
+</g><path d="M35 365H1165" stroke="url(#edge)" opacity=".65" stroke-width="2"/>
+</svg>
