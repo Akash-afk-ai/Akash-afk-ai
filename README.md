@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/learning-path.svg?v=2" alt="Animated learning journey" width="100%">
+  <img src="./assets/learning-path.svg?v=3" alt="Animated learning journey" width="100%">
 </p>
 
 <p align="center">
@@ -64,12 +64,23 @@
 </p>
 
 <p align="center">
-  <img src="./assets/project-map.svg?v=2" alt="Animated map of selected public repositories" width="100%">
+  <img src="./assets/project-map.svg?v=3" alt="Animated map of selected public repositories" width="100%">
 </p>
 
 <p align="center">
   <img src="./assets/terminal-loop.svg?v=1" alt="Animated developer terminal" width="100%">
 </p>
+
+## Motion lab — extra animated designs
+
+<p align="center"><img src="./assets/hologram-card.svg?v=1" alt="Animated holographic profile card" width="100%"></p>
+<p align="center"><img src="./assets/skill-circuit.svg?v=1" alt="Animated skill circuit" width="100%"></p>
+<p align="center"><img src="./assets/energy-pulse.svg?v=1" alt="Animated energy pulse" width="100%"></p>
+<p align="center"><img src="./assets/cyber-grid.svg?v=1" alt="Animated cyber grid" width="100%"></p>
+<p align="center"><img src="./assets/code-ribbon.svg?v=1" alt="Animated code ribbon" width="100%"></p>
+<p align="center"><img src="./assets/mission-control.svg?v=1" alt="Animated mission control" width="100%"></p>
+<p align="center"><img src="./assets/aurora-wave.svg?v=1" alt="Animated AURORA project wave" width="100%"></p>
+<p align="center"><img src="./assets/outro-glitch.svg?v=1" alt="Animated thank you banner" width="100%"></p>
 
 ## Featured projects
 
