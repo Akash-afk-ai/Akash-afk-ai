@@ -30,11 +30,23 @@
 </p>
 
 <p align="center">
-  <img src="./assets/data-pipeline.svg?v=1" alt="Animated problem-solving pipeline" width="100%">
+  <img src="./assets/data-pipeline.svg?v=2" alt="Animated problem-solving pipeline" width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/learning-path.svg?v=1" alt="Animated learning journey" width="100%">
+  <img src="./assets/neural-orbit.svg?v=1" alt="Animated neural orbit" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/matrix-rain.svg?v=1" alt="Animated digital rain banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/learning-path.svg?v=2" alt="Animated learning journey" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/blueprint.svg?v=1" alt="Animated system blueprint" width="100%">
 </p>
 
 <a id="technology-interests"></a>
@@ -52,7 +64,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/project-map.svg?v=1" alt="Animated map of selected public repositories" width="100%">
+  <img src="./assets/project-map.svg?v=2" alt="Animated map of selected public repositories" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/terminal-loop.svg?v=1" alt="Animated developer terminal" width="100%">
 </p>
 
 ## Featured projects
@@ -112,7 +128,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/signal-wave.svg?v=1" alt="Animated keep building banner" width="100%">
+  <img src="./assets/signal-wave.svg?v=2" alt="Animated keep building banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/final-transmission.svg?v=1" alt="Animated final transmission banner" width="100%">
 </p>
 
 <p align="center"><sub>Akash B Naik · Davanagere, Karnataka, India · SVG motion design</sub></p>
