@@ -146,6 +146,6 @@
   <img src="./assets/final-transmission.svg?v=1" alt="Animated final transmission banner" width="100%">
 </p>
 
-<p align="center"><sub>Akash B Naik · Davanagere, Karnataka, India · SVG motion design</sub></p>
+<p align="center"><sub>Akash B Naik · Davangere, Karnataka, India · SVG motion design</sub></p>
 
 <!-- Project descriptions are based on public repository documentation. No unverified contribution totals or skill ratings are claimed. -->
