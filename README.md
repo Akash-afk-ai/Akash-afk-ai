@@ -29,6 +29,14 @@
   <img src="./assets/lab.svg?v=1" alt="Developer lab dashboard" width="100%">
 </p>
 
+<p align="center">
+  <img src="./assets/constellation.svg?v=1" alt="Project constellation showing repository themes" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/principles.svg?v=1" alt="Build, learn and refine developer mindset" width="100%">
+</p>
+
 ## Featured projects
 
 | Project | Repository | What it is |
